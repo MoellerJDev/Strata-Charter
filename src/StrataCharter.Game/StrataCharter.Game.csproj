@@ -4,5 +4,8 @@
     <RootNamespace>StrataCharter.Game</RootNamespace>
     <EnableDynamicLoading>true</EnableDynamicLoading>
   </PropertyGroup>
-</Project>
 
+  <ItemGroup>
+    <ProjectReference Include="..\StrataCharter.Sim\StrataCharter.Sim.csproj" />
+  </ItemGroup>
+</Project>

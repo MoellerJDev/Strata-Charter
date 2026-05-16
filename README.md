@@ -174,7 +174,7 @@ To open the Godot project, launch Godot 4.6+ .NET edition and import:
 src/StrataCharter.Game/project.godot
 ```
 
-The current Godot scene is intentionally blank; gameplay implementation should begin in the simulation project first unless a task is specifically presentation-facing.
+The current Godot scene displays a deterministic debug layered grid sourced from `StrataCharter.Sim`. Run the main scene and use `Q` / `E` to switch the visible layer.
 
 ## Working Title
 
