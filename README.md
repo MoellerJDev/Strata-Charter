@@ -174,7 +174,7 @@ To open the Godot project, launch Godot 4.6+ .NET edition and import:
 src/StrataCharter.Game/project.godot
 ```
 
-The current Godot scene displays a deterministic debug layered grid sourced from `StrataCharter.Sim`. Run the main scene and use `Q` / `E` to switch the visible layer.
+The current Godot scene displays a deterministic debug layered grid sourced from `StrataCharter.Sim`, including a surface-layer path overlay driven by the simulation pathfinder. Run the main scene and use `Q` / `E` to switch the visible layer.
 
 ## Working Title
 
