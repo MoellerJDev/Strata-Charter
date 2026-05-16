@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrataCharter.Game", "src\StrataCharter.Game\StrataCharter.Game.csproj", "{A061FAE3-6B1E-4EB7-B074-4B6791A1665D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrataCharter.Sim", "src\StrataCharter.Sim\StrataCharter.Sim.csproj", "{6D21E5E9-3C28-4BF4-8D6F-E36230CF2B8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrataCharter.Content", "src\StrataCharter.Content\StrataCharter.Content.csproj", "{CA1288C9-B974-48F3-A533-BB772AF4445E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrataCharter.Sim.Tests", "tests\StrataCharter.Sim.Tests\StrataCharter.Sim.Tests.csproj", "{74E2F793-5743-4C9D-A626-F8745D49C72D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A061FAE3-6B1E-4EB7-B074-4B6791A1665D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A061FAE3-6B1E-4EB7-B074-4B6791A1665D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A061FAE3-6B1E-4EB7-B074-4B6791A1665D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A061FAE3-6B1E-4EB7-B074-4B6791A1665D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D21E5E9-3C28-4BF4-8D6F-E36230CF2B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D21E5E9-3C28-4BF4-8D6F-E36230CF2B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D21E5E9-3C28-4BF4-8D6F-E36230CF2B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D21E5E9-3C28-4BF4-8D6F-E36230CF2B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA1288C9-B974-48F3-A533-BB772AF4445E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1288C9-B974-48F3-A533-BB772AF4445E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1288C9-B974-48F3-A533-BB772AF4445E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1288C9-B974-48F3-A533-BB772AF4445E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E2F793-5743-4C9D-A626-F8745D49C72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E2F793-5743-4C9D-A626-F8745D49C72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E2F793-5743-4C9D-A626-F8745D49C72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E2F793-5743-4C9D-A626-F8745D49C72D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
